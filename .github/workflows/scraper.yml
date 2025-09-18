@@ -1,0 +1,42 @@
+name: Scrape TAL Archive
+
+permissions:
+  contents: write
+
+on:
+  workflow_dispatch:
+    inputs:
+      MODE:
+        description: "Scraper mode: test5 | all | new_only"
+        required: false
+        default: "new_only"
+  schedule:
+    - cron: "0 18 * * 0"   # Sundays 6pm UTC
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4 lxml
+
+      - name: Run scraper
+        run: python generate.py
+        env:
+          SCRAPER_MODE: ${{ github.event.inputs.MODE }}
+
+      - name: Commit & push if changed
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add feed.xml
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update feed.xml"
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
