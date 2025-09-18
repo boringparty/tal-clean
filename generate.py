@@ -151,4 +151,30 @@ while archive_url:
     </item>
 """
         else:
-            item
+            item_block = f"""
+    <item>
+      <title>{player_data['title'].strip()}</title>
+      <link>{full_url.strip()}</link>
+      <itunes:episode>{ep_num}</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>yes</itunes:explicit>
+      <description>{full_description}</description>
+      <pubDate>{pub_date_str}</pubDate>
+      <enclosure url="{clean_url}" type="audio/mpeg"/>
+    </item>
+"""
+
+        items_html += item_block
+        existing_episodes.add(ep_num)
+        count += 1
+        time.sleep(REQUEST_SLEEP)
+
+    # --- Next page ---
+    next_link = archive.select_one("a.pager")
+    archive_url = urljoin("https://www.thisamericanlife.org", next_link["href"]) if pull_everything and next_link else None
+
+# --- Write final feed ---
+with open("feed.xml", "w", encoding="utf-8") as f:
+    f.write(BASE_HEADER)
+    f.write(items_html)
+    f.write(BASE_FOOTER)
