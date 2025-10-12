@@ -9,7 +9,27 @@
     <itunes:image href="https://i.imgur.com/0MMrLC4.png"/>
 
     <item>
-      <title>869: Harold (Promo)</title>
+      <title>870: My Other Self (Promo)</title>
+      <link>https://www.thisamericanlife.org/870/my-other-self</link>
+      <itunes:episode>870</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>yes</itunes:explicit>
+      <description>What happens when people create alternate versions of themselves and release them into the wild?
+
+Prologue
+Host Ira Glass talks about a recent experience being interviewed and the realization that he was being asked about another version of himself. (4 minutes)
+
+Act One: Me and My Shadow
+Reporter Evan Ratliff creates an AI version of himself and then sets it loose on the world. This story was adapted from Evan's podcast, Shell Game. (43 minutes)
+
+Act Two: Papa Was a Trolling Stone
+Emmanuel Dzotsi explores the phenomenon of people lying on first dates to project a better version of themselves. Plus, he gets into a very personal example from his own life. (8 minutes)</description>
+      <pubDate>Fri, 10 Oct 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/870.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>869: Harold</title>
       <link>https://www.thisamericanlife.org/869/harold</link>
       <itunes:episode>869</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -25,7 +45,7 @@ A history of the brief mayoral career of Harold Washington and its lessons for B
 Act Two: The Present and the Future
 Ira revisits interviews with Chicago voters from the 1997 and 2007 rebroadcasts of this episode. In 1997, ten years after Harold Washington’s death, not much had changed in Chicago. By 2007, attitudes had begun to shift slowly, and another Black politician from Chicago was on the rise — Barack Obama. Ira also speaks to David Axelrod, an advisor to both Harold Washington and Barack Obama. (10 minutes)</description>
       <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/869.mp3" type="audio/mpeg"/>
+      <enclosure url="https://dcs-spotify.megaphone.fm/NPR8814052881.mp3" type="audio/mpeg"/>
     </item>
 
     <item>
@@ -72,27 +92,27 @@ It gets extremely personal for the judges. Also, the story of one person who got
     </item>
 
     <item>
-      <title>867: College Disorientation (Clean)</title>
-      <link>https://www.thisamericanlife.org/867/college-disorientation</link>
-      <itunes:episode>867</itunes:episode>
+      <title>870: My Other Self (Promo)</title>
+      <link>https://www.thisamericanlife.org/870/my-other-self</link>
+      <itunes:episode>870</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>no</itunes:explicit>
-      <description>Things are different on college campuses this year. We see inside the drama, with students and staff.
+      <itunes:explicit>yes</itunes:explicit>
+      <description>What happens when people create alternate versions of themselves and release them into the wild?
 
 Prologue
-We go to orientation at Arizona State University and meet international students who are trying to make friends. (6 minutes)
+Host Ira Glass talks about a recent experience being interviewed and the realization that he was being asked about another version of himself. (4 minutes)
 
-Act One: My Black President
-The president of the Black Student Union at the University of Utah fights to keep the B in BSU. (30 minutes)
+Act One: Me and My Shadow
+Reporter Evan Ratliff creates an AI version of himself and then sets it loose on the world. This story was adapted from Evan's podcast, Shell Game. (43 minutes)
 
-Act Two: The Art of the Deal
-A definition of antisemitism, canceled classes, and angry professors at Columbia University. (16 minutes)</description>
-      <pubDate>Fri, 12 Sep 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/upload/clean/867.mp3" type="audio/mpeg"/>
+Act Two: Papa Was a Trolling Stone
+Emmanuel Dzotsi explores the phenomenon of people lying on first dates to project a better version of themselves. Plus, he gets into a very personal example from his own life. (8 minutes)</description>
+      <pubDate>Fri, 10 Oct 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/870.mp3" type="audio/mpeg"/>
     </item>
 
     <item>
-      <title>869: Harold (Promo)</title>
+      <title>869: Harold</title>
       <link>https://www.thisamericanlife.org/869/harold</link>
       <itunes:episode>869</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -108,7 +128,7 @@ A history of the brief mayoral career of Harold Washington and its lessons for B
 Act Two: The Present and the Future
 Ira revisits interviews with Chicago voters from the 1997 and 2007 rebroadcasts of this episode. In 1997, ten years after Harold Washington’s death, not much had changed in Chicago. By 2007, attitudes had begun to shift slowly, and another Black politician from Chicago was on the rise — Barack Obama. Ira also speaks to David Axelrod, an advisor to both Harold Washington and Barack Obama. (10 minutes)</description>
       <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/869.mp3" type="audio/mpeg"/>
+      <enclosure url="https://dcs-spotify.megaphone.fm/NPR8814052881.mp3" type="audio/mpeg"/>
     </item>
 
     <item>
@@ -664,26 +684,6 @@ Frank Filocomo thinks people care too much about politics when it comes to datin
     </item>
 
     <item>
-      <title>844: This Is the Case of Henry Dee</title>
-      <link>https://www.thisamericanlife.org/844/this-is-the-case-of-henry-dee</link>
-      <itunes:episode>844</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>yes</itunes:explicit>
-      <description>Thirteen parole board members decide whether or not one man should be released from prison.
-
-Prologue
-Henry Dee has been locked up for most of his life, nearly 50 years. Now, he’s up for parole. Reporter Ben Austen tells the story. (19 minutes)
-
-Part 1: Part 1
-The parole board members puzzle through the pros and cons of releasing Henry Dee from prison and cast their votes. (26 minutes)
-
-Part 2: Part 2
-Reporter Ben Austen continues the story. (8 minutes)</description>
-      <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
-      <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/844/X55_q3XsjiVyGMvBYB-JHSvtZo7fQs3KnINMf3rGsxI/844.mp3" type="audio/mpeg"/>
-    </item>
-
-    <item>
       <title>843: A Little Bit of Power (Clean)</title>
       <link>https://www.thisamericanlife.org/843/a-little-bit-of-power</link>
       <itunes:episode>843</itunes:episode>
@@ -1141,32 +1141,6 @@ Act Two: Sealed With A Diss
 An excerpt from “Belles Lettres," a short story by Nafissa Thompson-Spires from her book Heads of the Colored People, performed by actors Erika Alexander and Eisa Davis with a cameo from our colleague Alvin Melathe. (14 minutes)</description>
       <pubDate>Fri, 23 Feb 2024 00:00:00 +0000</pubDate>
       <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/upload/clean/824.mp3" type="audio/mpeg"/>
-    </item>
-
-    <item>
-      <title>823: The Question Trap (Clean)</title>
-      <link>https://www.thisamericanlife.org/823/the-question-trap</link>
-      <itunes:episode>823</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>no</itunes:explicit>
-      <description>An investigation of when and why people ask loaded questions that are a proxy for something else.
-
-Prologue
-Host Ira Glass talks with producer Tobin Low about the question he got asked after he and his husband moved in together, and what he thinks people were really asking. (4 minutes)
-
-Act One: Question: Tell Me What You Think About This
-“What do you think about Beyoncé?” and other questions raised by people on first dates. (12 minutes)
-
-Act Two: How Old Are Your Kids?
-When a common, seemingly innocuous question goes wildly off the rails. (13 minutes)
-
-Act Three: How’s Your Mom?
-Why are people asking me if my mother recognizes me, when it’s totally beside the point? (14 minutes)
-
-Act Four: Can I Help You?
-Schools ask their students the strangest essay questions sometimes. The experience of tutoring anxious teenagers through how to answer them requires a balladier, singing their lived experience to a crowd as though it were the Middle Ages. (10 minutes)</description>
-      <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
-      <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/upload/clean/823.mp3" type="audio/mpeg"/>
     </item>
 
   </channel>
