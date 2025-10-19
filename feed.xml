@@ -9,7 +9,7 @@
     <itunes:image href="https://i.imgur.com/0MMrLC4.png"/>
 
     <item>
-      <title>870: My Other Self (Promo)</title>
+      <title>870: My Other Self</title>
       <link>https://www.thisamericanlife.org/870/my-other-self</link>
       <itunes:episode>870</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -25,7 +25,7 @@ Reporter Evan Ratliff creates an AI version of himself and then sets it loose on
 Act Two: Papa Was a Trolling Stone
 Emmanuel Dzotsi explores the phenomenon of people lying on first dates to project a better version of themselves. Plus, he gets into a very personal example from his own life. (8 minutes)</description>
       <pubDate>Fri, 10 Oct 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/870.mp3" type="audio/mpeg"/>
+      <enclosure url="https://dcs-spotify.megaphone.fm/NPR9417124313.mp3" type="audio/mpeg"/>
     </item>
 
     <item>
@@ -69,66 +69,6 @@ Act Three: Invisible Girl
 Scott Carrier and his family live in the same Salt Lake City neighborhood as Elizabeth Smart, the fourteen-year-old whose 2002 kidnapping made international news. Though Smart's picture was plastered everywhere throughout Salt Lake City and thousands of volunteers searched for her, her captors brazenly brought her back to the very neighborhood from which she'd been taken. They walked freely through the streets with her in broad daylight, yet no one recognized her. Scott talks with his neighbors and his son Milo—who had attended grade school with Smart—about what was going through their minds that prevented them from seeing what was right there in plain sight. (12 minutes)</description>
       <pubDate>Fri, 08 Apr 2005 00:00:00 +0000</pubDate>
       <enclosure url="https://dcs-spotify.megaphone.fm/NPR6741917582.mp3" type="audio/mpeg"/>
-    </item>
-
-    <item>
-      <title>868: The Hand That Rocks The Gavel (Clean)</title>
-      <link>https://www.thisamericanlife.org/868/the-hand-that-rocks-the-gavel</link>
-      <itunes:episode>868</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>no</itunes:explicit>
-      <description>A group of immigration judges, who almost never speak to the press, describes the dismantling of our immigration court system from the inside.
-
-Prologue
-Zoe Chace gives an eyewitness account of what has been happening at 26 Federal Plaza, an immigration courthouse in New York City. (5 minutes)
-
-Act One: Act One
-The judges walk us through how different their jobs have become in just the past few months, because of sweeping policy changes by Trump’s Department of Justice. (26 minutes)
-
-Act Two: Act Two
-It gets extremely personal for the judges. Also, the story of one person who got pushed through the new immigration court system this summer. (23 minutes)</description>
-      <pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/upload/clean/868.mp3" type="audio/mpeg"/>
-    </item>
-
-    <item>
-      <title>870: My Other Self (Promo)</title>
-      <link>https://www.thisamericanlife.org/870/my-other-self</link>
-      <itunes:episode>870</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>yes</itunes:explicit>
-      <description>What happens when people create alternate versions of themselves and release them into the wild?
-
-Prologue
-Host Ira Glass talks about a recent experience being interviewed and the realization that he was being asked about another version of himself. (4 minutes)
-
-Act One: Me and My Shadow
-Reporter Evan Ratliff creates an AI version of himself and then sets it loose on the world. This story was adapted from Evan's podcast, Shell Game. (43 minutes)
-
-Act Two: Papa Was a Trolling Stone
-Emmanuel Dzotsi explores the phenomenon of people lying on first dates to project a better version of themselves. Plus, he gets into a very personal example from his own life. (8 minutes)</description>
-      <pubDate>Fri, 10 Oct 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/870.mp3" type="audio/mpeg"/>
-    </item>
-
-    <item>
-      <title>869: Harold</title>
-      <link>https://www.thisamericanlife.org/869/harold</link>
-      <itunes:episode>869</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>yes</itunes:explicit>
-      <description>The story of Harold Washington and the white backlash that ensued when he became Chicago's first Black mayor.
-
-Prologue
-As New York City’s Democratic establishment attempts to resist the candidacy of Zohran Mamdani, we look back at another mayoral candidate who upset the established political machine. (7 minutes)
-
-Act One: Yesterday
-A history of the brief mayoral career of Harold Washington and its lessons for Black and white America, as told by people close to him. (39 minutes)
-
-Act Two: The Present and the Future
-Ira revisits interviews with Chicago voters from the 1997 and 2007 rebroadcasts of this episode. In 1997, ten years after Harold Washington’s death, not much had changed in Chicago. By 2007, attitudes had begun to shift slowly, and another Black politician from Chicago was on the rise — Barack Obama. Ira also speaks to David Axelrod, an advisor to both Harold Washington and Barack Obama. (10 minutes)</description>
-      <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://dcs-spotify.megaphone.fm/NPR8814052881.mp3" type="audio/mpeg"/>
     </item>
 
     <item>
@@ -1141,6 +1081,75 @@ Act Two: Sealed With A Diss
 An excerpt from “Belles Lettres," a short story by Nafissa Thompson-Spires from her book Heads of the Colored People, performed by actors Erika Alexander and Eisa Davis with a cameo from our colleague Alvin Melathe. (14 minutes)</description>
       <pubDate>Fri, 23 Feb 2024 00:00:00 +0000</pubDate>
       <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/upload/clean/824.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>823: The Question Trap (Clean)</title>
+      <link>https://www.thisamericanlife.org/823/the-question-trap</link>
+      <itunes:episode>823</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>An investigation of when and why people ask loaded questions that are a proxy for something else.
+
+Prologue
+Host Ira Glass talks with producer Tobin Low about the question he got asked after he and his husband moved in together, and what he thinks people were really asking. (4 minutes)
+
+Act One: Question: Tell Me What You Think About This
+“What do you think about Beyoncé?” and other questions raised by people on first dates. (12 minutes)
+
+Act Two: How Old Are Your Kids?
+When a common, seemingly innocuous question goes wildly off the rails. (13 minutes)
+
+Act Three: How’s Your Mom?
+Why are people asking me if my mother recognizes me, when it’s totally beside the point? (14 minutes)
+
+Act Four: Can I Help You?
+Schools ask their students the strangest essay questions sometimes. The experience of tutoring anxious teenagers through how to answer them requires a balladier, singing their lived experience to a crowd as though it were the Middle Ages. (10 minutes)</description>
+      <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/upload/clean/823.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>822: The Words to Say It</title>
+      <link>https://www.thisamericanlife.org/822/the-words-to-say-it</link>
+      <itunes:episode>822</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>yes</itunes:explicit>
+      <description>What it means to have words—and to lose them.
+
+Prologue
+Sometimes we don’t want to say what’s going on because putting it into words would make it real. At other times, words don’t seem to capture the weight of what we want to say. Susanna Fogel talks about her friend Margaret Riley, who died earlier this week. (6 minutes)
+
+Act One: The Speaking Part
+The story of a woman from Gaza City who ran out of words. Seventy-two days into the war, Youmna stopped talking. (27 minutes)
+
+Act Two: Toska
+For years there was a word that Val’s mother did not want to use. Val sets out to figure out why. (22 minutes)</description>
+      <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/822/KK8hozWKStRe5YYF712MN-7lO_lt7t_c3WZLoOHplgY/822.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>821: Embrace the Suck (Clean)</title>
+      <link>https://www.thisamericanlife.org/821/embrace-the-suck</link>
+      <itunes:episode>821</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>People finding themselves in situations that are worse than they thought and deciding to really go with it.
+
+Prologue
+A Boston woman takes her dog for a walk and suddenly finds herself in a terrible situation she never anticipated. The strange thing is, it helps her. (9 minutes)
+
+Act One: Haley Mary Pass
+Two college friends try to stop Donald Trump’s primary season momentum by convincing New Hampshire voters to vote against everything they care about. Producer Zoe Chace follows along. (22 minutes)
+
+Act Two: The Dream Police
+When producer Ike Sriskandarajah tries to sleep-train his baby, a neighbor decides to call the police. Later, Ike thinks, "I can work with that." (9 minutes)
+
+Act Three: Notes on Cycling
+A story by producer Boen Wang about how to get through a summer of bad days. (9 minutes)</description>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/upload/clean/821.mp3" type="audio/mpeg"/>
     </item>
 
   </channel>
