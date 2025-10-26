@@ -9,6 +9,46 @@
     <itunes:image href="https://i.imgur.com/0MMrLC4.png"/>
 
     <item>
+      <title>871: The Thing About Things (Promo)</title>
+      <link>https://www.thisamericanlife.org/871/the-thing-about-things</link>
+      <itunes:episode>871</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>yes</itunes:explicit>
+      <description>Three stories about the strange power inanimate objects can hold over us.
+
+Prologue
+Nunzio gets caught in a kind of servile relationship…with a scooter. (8 minutes)
+
+Act One: A Rock and a Hard Place
+Ted was six when he first picked up a rock from the Petrified Forest National Park. Nearly 50 years later, he really wishes he hadn’t. Aviva DeKornfeld talked to him. (15 minutes)
+
+Act Two: A Few Hundred of My Favorite Things
+Heavyweight host Jonathan Goldstein leaps in to help a family, who are not entirely sure they want or need his help, get rid of their stuff. (31 minutes)</description>
+      <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/871.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>844: This Is the Case of Henry Dee</title>
+      <link>https://www.thisamericanlife.org/844/this-is-the-case-of-henry-dee</link>
+      <itunes:episode>844</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>yes</itunes:explicit>
+      <description>Thirteen parole board members decide whether or not one man should be released from prison.
+
+Prologue
+Henry Dee has been locked up for most of his life, nearly 50 years. Now, he’s up for parole. Reporter Ben Austen tells the story. (19 minutes)
+
+Part 1: Part 1
+The parole board members puzzle through the pros and cons of releasing Henry Dee from prison and cast their votes. (26 minutes)
+
+Part 2: Part 2
+Reporter Ben Austen continues the story. (8 minutes)</description>
+      <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
+      <enclosure url="https://dcs-spotify.megaphone.fm/NPR6325401197.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
       <title>870: My Other Self</title>
       <link>https://www.thisamericanlife.org/870/my-other-self</link>
       <itunes:episode>870</itunes:episode>
@@ -46,29 +86,6 @@ Act Two: The Present and the Future
 Ira revisits interviews with Chicago voters from the 1997 and 2007 rebroadcasts of this episode. In 1997, ten years after Harold Washington’s death, not much had changed in Chicago. By 2007, attitudes had begun to shift slowly, and another Black politician from Chicago was on the rise — Barack Obama. Ira also speaks to David Axelrod, an advisor to both Harold Washington and Barack Obama. (10 minutes)</description>
       <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
       <enclosure url="https://dcs-spotify.megaphone.fm/NPR8814052881.mp3" type="audio/mpeg"/>
-    </item>
-
-    <item>
-      <title>286: Mind Games</title>
-      <link>https://www.thisamericanlife.org/286/mind-games</link>
-      <itunes:episode>286</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>yes</itunes:explicit>
-      <description>Stories of people who try simple mind games on others, and then find themselves way in over their heads.
-
-Prologue
-Host Ira Glass interviews Lori Gottlieb about the time she sent a letter to a writer in a magazine, a letter packed with white lies. (5 minutes)
-
-Act One: Continued
-Lori Gottlieb's story continues. One complication led to another, and before long, the writer seemed to be lying to her. Or maybe he wasn't. It was hard to tell. Years later, she still isn't sure what happened. (8 minutes)
-
-Act Two: The Spy Who Loved Everyone
-A group called Improv Everywhere decides that an unknown band, Ghosts of Pasha, playing their first ever tour in New York, ought to think they're a smash hit. So they study the band's music and then crowd the performance, pretending to be hard-core fans. Improv Everywhere just wants to make the band happy—to give them the best day of their lives. But the band doesn't see it that way. Nor does another subject of one of Improv Everywhere's "missions." (31 minutes)
-
-Act Three: Invisible Girl
-Scott Carrier and his family live in the same Salt Lake City neighborhood as Elizabeth Smart, the fourteen-year-old whose 2002 kidnapping made international news. Though Smart's picture was plastered everywhere throughout Salt Lake City and thousands of volunteers searched for her, her captors brazenly brought her back to the very neighborhood from which she'd been taken. They walked freely through the streets with her in broad daylight, yet no one recognized her. Scott talks with his neighbors and his son Milo—who had attended grade school with Smart—about what was going through their minds that prevented them from seeing what was right there in plain sight. (12 minutes)</description>
-      <pubDate>Fri, 08 Apr 2005 00:00:00 +0000</pubDate>
-      <enclosure url="https://dcs-spotify.megaphone.fm/NPR6741917582.mp3" type="audio/mpeg"/>
     </item>
 
     <item>
@@ -223,7 +240,7 @@ Two Americans moved to Eswatini when that country was the epicenter of the AIDS 
 Act Three: Two Daughters
 When USAID suddenly stopped all foreign assistance without warning or a transition plan, it sent people all over the world scrambling. Especially those relying on daily medicine provided by USAID. Producer Ike Sriskandarajah spoke to two families in Kenya who were trying to figure it out. (8 minutes)</description>
       <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://dcs-spotify.megaphone.fm/NPR9826036922.mp3" type="audio/mpeg"/>
+      <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/862/7S3DAAmXKxlrwLydU4ktF23n-gISlUKO-sOG7xCSrSA/862.mp3" type="audio/mpeg"/>
     </item>
 
     <item>
@@ -621,6 +638,26 @@ Act Three: Let Me Be Frank
 Frank Filocomo thinks people care too much about politics when it comes to dating. His dates don’t necessarily agree. (10 minutes)</description>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
       <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/upload/clean/845.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>844: This Is the Case of Henry Dee</title>
+      <link>https://www.thisamericanlife.org/844/this-is-the-case-of-henry-dee</link>
+      <itunes:episode>844</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>yes</itunes:explicit>
+      <description>Thirteen parole board members decide whether or not one man should be released from prison.
+
+Prologue
+Henry Dee has been locked up for most of his life, nearly 50 years. Now, he’s up for parole. Reporter Ben Austen tells the story. (19 minutes)
+
+Part 1: Part 1
+The parole board members puzzle through the pros and cons of releasing Henry Dee from prison and cast their votes. (26 minutes)
+
+Part 2: Part 2
+Reporter Ben Austen continues the story. (8 minutes)</description>
+      <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
+      <enclosure url="https://dcs-spotify.megaphone.fm/NPR6325401197.mp3" type="audio/mpeg"/>
     </item>
 
     <item>
@@ -1127,29 +1164,6 @@ Act Two: Toska
 For years there was a word that Val’s mother did not want to use. Val sets out to figure out why. (22 minutes)</description>
       <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
       <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/822/KK8hozWKStRe5YYF712MN-7lO_lt7t_c3WZLoOHplgY/822.mp3" type="audio/mpeg"/>
-    </item>
-
-    <item>
-      <title>821: Embrace the Suck (Clean)</title>
-      <link>https://www.thisamericanlife.org/821/embrace-the-suck</link>
-      <itunes:episode>821</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>no</itunes:explicit>
-      <description>People finding themselves in situations that are worse than they thought and deciding to really go with it.
-
-Prologue
-A Boston woman takes her dog for a walk and suddenly finds herself in a terrible situation she never anticipated. The strange thing is, it helps her. (9 minutes)
-
-Act One: Haley Mary Pass
-Two college friends try to stop Donald Trump’s primary season momentum by convincing New Hampshire voters to vote against everything they care about. Producer Zoe Chace follows along. (22 minutes)
-
-Act Two: The Dream Police
-When producer Ike Sriskandarajah tries to sleep-train his baby, a neighbor decides to call the police. Later, Ike thinks, "I can work with that." (9 minutes)
-
-Act Three: Notes on Cycling
-A story by producer Boen Wang about how to get through a summer of bad days. (9 minutes)</description>
-      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
-      <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/upload/clean/821.mp3" type="audio/mpeg"/>
     </item>
 
   </channel>
